@@ -8,6 +8,5 @@ public class Main {
         System.out.println(book1.getName() + " has initial price: " + book1.getPrice() + "\nAfter applied discount: " + book1.applyCupon());
         System.out.println(book2.getName() + " has initial price: " + book2.getPrice() + "\nAfter applied discount: " + book2.applyCupon());
 
-        //Fix the discount thing
     }
 }
