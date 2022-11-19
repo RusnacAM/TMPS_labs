@@ -1,4 +1,4 @@
-# Lab2. Structural Patterns
+# Lab3. Structural Patterns
 
 &nbsp;&nbsp;&nbsp;&nbsp;This laboratory work is structured into 2 different projects,
 exploring 5 of the structural patterns:
